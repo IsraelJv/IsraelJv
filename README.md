@@ -1,15 +1,15 @@
-# Hello everyone 🙂
+# ¡¡Hola a todas y a todos!! 🙂
+:star:
+:star: En este repositorio voy a estar subiendo algunos de mis proyectos que he realizado en la escuela y de forma independiente. :star: :star:
 
-Here I keep some of my works that I do at school or for fun.
+Espero que les gusten mis proyectos tanto como a mi. :blush:
 
-More about from me:
+Otras cosas acerca de mi :hushed::
 
-
-
-```
+```js
 const programmer = {
   name: "Israel",
-  age: 24,
+  age: 26,
   country: "Mexico",
   university_studies: "ESCOM",
   soft_skills: ["organized", 
@@ -19,7 +19,8 @@ const programmer = {
   programming_skills: ["Java",
                       "JavaScript",
                       "Python",
-                      "C",
-                      "SQLServer"],
+                      "Git/GitHub",
+                      "SQLServer",
+                      "MySQL"],
 }
 ```

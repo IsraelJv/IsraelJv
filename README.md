@@ -1,6 +1,6 @@
 # ¡¡Hola a todas y a todos!! 🙂
 :star:
-:star: En este repositorio voy a estar subiendo algunos de mis proyectos que he realizado en la escuela y de forma independiente. :star: :star:
+En este repositorio voy a estar subiendo algunos de mis proyectos que he realizado en la escuela y de forma independiente. :star: 
 
 Espero que les gusten mis proyectos tanto como a mi. :blush:
 
